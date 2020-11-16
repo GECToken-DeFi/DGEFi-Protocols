@@ -25,7 +25,7 @@ It aims to become the first community autonomous green digital encryption Bank b
 
 [Our-Files-website](https://documents.dgefi.finance)
 
-##Contributions
+## Contributions
 
 If you are interested to our project and willing to contribute feel free to join us at davy.zhou@gectoken.cn or [submit your issues or PR](https://github.com/DGEFi) to the develop branch. If an issue has the tag assigned means it has already been assigned to someone.
 
